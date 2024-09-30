@@ -1,0 +1,42 @@
+*{
+  text-align: center;
+}
+
+#heading{
+  margin-top: 12vh;
+  color: #94360B;
+}
+
+#generator_div{
+  font-size: 1.2rem;
+  width: 29%;
+  height: 8vh;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#paraNumbers{
+  width: 5vw;
+  height: 5vh;
+  border: none;
+  font-size: 1.3rem;
+}
+#generator_div button{
+  width: 12vw;
+  height: 6vh;
+  font-size: 1rem;
+  background-color: #F5873D;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#generated_paragraphs{
+  width: 59%;
+  text-align: center;
+  margin: auto;
+  font-size: 1.1rem;
+  word-spacing: 2.5px;
+  color: #94360B;
+}
